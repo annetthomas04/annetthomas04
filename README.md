@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Annet Thomas!👋</h1>
 
-<h3 align="center">🚀 Full-Stack Web & App Developer | UX/UI Designer | Software Engineer</h3>
+<p align="center"> 🚀 Full-Stack Web & App Developer | UX/UI Designer | Software Engineer </p>
 
 <div align="center">
 
